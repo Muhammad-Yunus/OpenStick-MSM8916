@@ -10,7 +10,7 @@
 
 <p align="center"><i>Repurpose your USB modem 4G Wi-Fi device, based on the Qualcomm MSM8916 chipset, into a fully functional Linux device — 4× Cortex-A53 ARM64, Debian, SSH, WiFi, and more.</i></p>
 
-<p align="center"><img src="assets/banner.png" alt="OpenStick Banner" width="50%"></p>
+<p align="center"><img src="assets/banner.png" alt="OpenStick Banner" width="75%"></p>
 
 The UZ801, commonly known as the OpenStick, is a compact USB modem 4G with built-in Wi-Fi based on the Qualcomm Snapdragon 410 (MSM8916) System on Chip. Out of the box, it ships with Android as its operating system and functions primarily as a mobile hotspot and 4G LTE USB modem. However, thanks to the unlocked bootloader and community-driven efforts, this device can be repurposed into a fully functional Linux-powered embedded computer — running Debian on ARM64 with SSH, WiFi, and full root access. This project documents the complete process of flashing Linux onto the OpenStick, turning it from a simple USB modem into a powerful low-cost development and IoT device.
 
