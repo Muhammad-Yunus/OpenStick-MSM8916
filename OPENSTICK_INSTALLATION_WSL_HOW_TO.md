@@ -372,7 +372,7 @@ passwd: password updated successfully
 
 From your Windows PC:
 ```powershell
-ssh root@192.168.0.132
+ssh root@<your_openstick_ip>
 ```
 
 Voila — you are now connected to your OpenStick via SSH over WiFi! 🎉
