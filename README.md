@@ -48,3 +48,5 @@ This would not be possible without the original work by **HandsomeYingYan**, who
 The English-language guide that made this accessible to a wider audience was published at:
 
 > https://extrowerk.com/2022-07-31/OpenStick.html
+
+Special thanks to the **[OpenStick](https://github.com/OpenStick)** community for creating and maintaining the base-generic and Debian images used in this project.
