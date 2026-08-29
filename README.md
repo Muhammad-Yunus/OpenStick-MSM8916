@@ -17,25 +17,21 @@ The UZ801, commonly known as the OpenStick, is a compact USB modem 4G with built
 
 
 ## Hardware Specifications
-<table >
-  <tr>
-    <td >
-      <table>
-        <tr><td><strong>SoC</strong></td><td>Qualcomm Snapdragon 410 (MSM8916)</td></tr>
-        <tr><td><strong>CPU</strong></td><td>4 × Cortex-A53 @ 1 GHz (ARM64 / aarch64)</td></tr>
-        <tr><td><strong>RAM</strong></td><td>512 MB LPDDR3</td></tr>
-        <tr><td><strong>Storage</strong></td><td>~3.3 GB eMMC</td></tr>
-        <tr><td><strong>WiFi</strong></td><td>802.11 b/g/n (2.4 GHz)</td></tr>
-        <tr><td><strong>4G LTE</strong></td><td>Yes — USB modem with RNDIS network interface</td></tr>
-        <tr><td><strong>USB</strong></td><td>USB 2.0 OTG (used for flashing + ADB)</td></tr>
-        <tr><td><strong>Bootloader</strong></td><td>lk2nd (modified, unlocked)</td></tr>
-        <tr><td><strong>Kernel</strong></td><td>Linux 5.15.0-handsomekernel (mainline)</td></tr>
-        <tr><td><strong>Default OS</strong></td><td>Android (pre-installed)</td></tr>
-      </table>
-    </td>
-    <td align="left" style="vertical-align: top;"><img src="assets/usb_modem_4g_caseless.jpeg" alt="USB Modem 4G Caseless" style="max-width:200px;"></td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <table>
+    <tr><td><strong>SoC</strong></td><td>Qualcomm Snapdragon 410 (MSM8916)</td></tr>
+    <tr><td><strong>CPU</strong></td><td>4 × Cortex-A53 @ 1 GHz (ARM64 / aarch64)</td></tr>
+    <tr><td><strong>RAM</strong></td><td>512 MB LPDDR3</td></tr>
+    <tr><td><strong>Storage</strong></td><td>~3.3 GB eMMC</td></tr>
+    <tr><td><strong>WiFi</strong></td><td>802.11 b/g/n (2.4 GHz)</td></tr>
+    <tr><td><strong>4G LTE</strong></td><td>Yes — USB modem with RNDIS network interface</td></tr>
+    <tr><td><strong>USB</strong></td><td>USB 2.0 OTG (used for flashing + ADB)</td></tr>
+    <tr><td><strong>Bootloader</strong></td><td>lk2nd (modified, unlocked)</td></tr>
+    <tr><td><strong>Kernel</strong></td><td>Linux 5.15.0-handsomekernel (mainline)</td></tr>
+    <tr><td><strong>Default OS</strong></td><td>Android (pre-installed)</td></tr>
+  </table>
+  <div><img src="assets/usb_modem_4g_caseless.jpeg" alt="USB Modem 4G Caseless" style="max-width:200px;"></div>
+</div>
 
 
 
