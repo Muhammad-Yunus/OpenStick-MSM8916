@@ -34,7 +34,6 @@ The UZ801, commonly known as the OpenStick, is a compact USB modem 4G with built
       </table>
     </td>
     <td align="left" style="vertical-align: top;"><img src="assets/usb_modem_4g_caseless.jpeg" alt="USB Modem 4G Caseless" style="max-width:200px;"></td>
-    <td align="left" style="vertical-align: top;"><img src="assets/usb_modem_4g.png" alt="USB Modem 4G" style="max-width:300px;"></td>
   </tr>
 </table>
 
