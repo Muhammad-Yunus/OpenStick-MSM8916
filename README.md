@@ -1,6 +1,7 @@
 # OpenStick — Repurposing USB Modem 4G (Qualcomm MSM8916) As Linux Device
 
 <div align="center">
+  <a href="https://github.com/OpenStick"><img src="https://img.shields.io/badge/OpenStick-MSM8916-blue" alt="OpenStick"></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/platform-linux%20|%20windows-blue" alt="Platform"></a>
   <a href="https://en.wikipedia.org/wiki/AArch64"><img src="https://img.shields.io/badge/arch-arm64%20%28aarch64%29-50F2A6" alt="Architecture"></a>
   <a href="https://debian.org"><img src="https://img.shields.io/badge/os-debian-orange" alt="OS"></a>
