@@ -377,6 +377,8 @@ ssh root@192.168.0.132
 
 Voila — you are now connected to your OpenStick via SSH over WiFi! 🎉
 
+![](assets/ssh_neofecth.png)
+
 ---
 
 ## Summary: USB Re-attach Checklist
