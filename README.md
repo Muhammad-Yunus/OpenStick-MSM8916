@@ -5,7 +5,6 @@
   <a href="https://en.wikipedia.org/wiki/AArch64"><img src="https://img.shields.io/badge/arch-arm64%20%28aarch64%29-50F2A6" alt="Architecture"></a>
   <a href="https://debian.org"><img src="https://img.shields.io/badge/os-debian-orange" alt="OS"></a>
   <a href="https://en.wikipedia.org/wiki/Qualcomm_Snapdragon"><img src="https://img.shields.io/badge/soc-Qualcomm%20MSM8916-red" alt="SoC"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </div>
 
 <p align="center"><i>Repurpose your USB modem 4G Wi-Fi device, based on the Qualcomm MSM8916 chipset, into a fully functional Linux device — 4× Cortex-A53 ARM64, Debian, SSH, WiFi, and more.</i></p>
