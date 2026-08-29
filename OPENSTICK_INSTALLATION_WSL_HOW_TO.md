@@ -252,7 +252,7 @@ Device `3-1` is now gone from the list.
 
 The Windows-side `adb.exe` can still communicate with the device. Navigate to the `base/` folder where `adb.exe` resides.
 
-> **Note:** `<OPENSTICK_DIR>` is the path inside WSL where you extracted the zip files. If you downloaded to `/home/<user>/OpenStick`, use that path. Windows paths like `C:\D\MY\DEV\OpenStick` map to `/mnt/d/MY/DEV/OpenStick` in WSL.
+> **Note:** `<OPENSTICK_DIR>` is the path inside WSL where you extracted the zip files. If you downloaded to `/home/<user>/OpenStick`, use that path. Windows paths like `C:\D\MY\DEV\OpenStick` map to `/mnt/c/D/MY/DEV/OpenStick` in WSL.
 
 ```powershell
 cd <OPENSTICK_DIR>/base
